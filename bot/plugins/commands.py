@@ -48,11 +48,12 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('🤡LM7 GROUP 🤡', url='https://t.me/lm7editor'),
+        
         InlineKeyboardButton('👑 YOUTUBE CHANNEL 👑', url ='https://youtube.com/c/MalayaliYouTuberJunior')
     ],[
         InlineKeyboardButton('Support Group🙏', url='https://t.me/lm7editor')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+       
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -91,7 +92,7 @@ async def about(bot, update):
     
     buttons = [[
 
-        InlineKeyboardButton('Close 🔐', callback_data='close')
+        InlineKeyboardButton('Close 🔙', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     
