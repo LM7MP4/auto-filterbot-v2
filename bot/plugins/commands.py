@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👉 SUBSCRIBE CHANNEL 👈', url="https://youtube.com/c/MalayaliYouTuberJunior"
+                                    '🔰SUBSCRIBE-CHANNEL🔰', url="https://youtube.com/c/MalayaliYouTuberJunior"
                                 )
                         ]
                     ]
@@ -51,7 +51,9 @@ async def start(bot, update):
         
         InlineKeyboardButton('🔴YT-CHANNEL🔴', url ='https://youtube.com/c/MalayaliYouTuberJunior')
     ],[
-        InlineKeyboardButton('🙏Support-Group🙏', url='https://t.me/lm7editor')
+        InlineKeyboardButton('🔰Support-Group🔰', url='https://t.me/lm7editor')
+        
+        InlineKeyboardButton('❓Help-Group❓', url='https://t.me/helpgrouplm7'),
     ],[
        
     ]]
