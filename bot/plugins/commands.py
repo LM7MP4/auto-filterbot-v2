@@ -53,9 +53,8 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('🔰Support-Group🔰', url='https://t.me/lm7editor')
         
-        InlineKeyboardButton('❓Help-Group❓', url='https://t.me/helpgrouplm7'),
     ],[
-       
+       InlineKeyboardButton('❓Help-Group❓', url='https://t.me/helpgrouplm7'),
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
