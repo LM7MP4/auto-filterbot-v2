@@ -10,7 +10,7 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@L M 7 EDITOR GROUP 😈💎
+@LM7EDITORGROUP😈💎
 </i>"""    
     
     HELP_TEXT = """
