@@ -43,10 +43,10 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@L M 7 EDITOR GROUP 😈💎
+@LM7EDITORGROUP😈💎
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot by L M 7</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/lm7editor">L M 7 EDITOR CHANNEL</a></i></b>
 
@@ -54,5 +54,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/LM7MP4/auto-filterbot-v2">Click Me</a></i>
+
 """
