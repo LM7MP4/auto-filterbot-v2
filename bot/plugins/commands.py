@@ -47,11 +47,11 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('🤡LM7 GROUP 🤡', url='https://t.me/lm7editor'),
+        InlineKeyboardButton('🔰LM7-GROUP🔰', url='https://t.me/lm7editor'),
         
-        InlineKeyboardButton('👑 YOUTUBE CHANNEL 👑', url ='https://youtube.com/c/MalayaliYouTuberJunior')
+        InlineKeyboardButton('🔴YT-CHANNEL🔴', url ='https://youtube.com/c/MalayaliYouTuberJunior')
     ],[
-        InlineKeyboardButton('Support Group🙏', url='https://t.me/lm7editor')
+        InlineKeyboardButton('🙏Support-Group🙏', url='https://t.me/lm7editor')
     ],[
        
     ]]
