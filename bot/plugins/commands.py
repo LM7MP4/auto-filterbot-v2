@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🤖HOW TO MAKE BOT🤖', url="https://youtu.be/arLXQscl4yo"
+                                    '🤖 SUBSCRIBE MY CHANNEL 🤖', url="https://youtube.com/c/MalayaliYouTuberJunior"
                                 )
                         ]
                     ]
