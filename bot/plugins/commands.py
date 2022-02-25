@@ -48,9 +48,9 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('🤡LM7 GROUP 🤡', url='https://t.me/lm7editor'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2')
+        InlineKeyboardButton('👑 YOUTUBE CHANNEL 👑', url ='https://youtube.com/c/MalayaliYouTuberJunior')
     ],[
-        InlineKeyboardButton('Support Group🛠', url='https://t.me/lm7editor')
+        InlineKeyboardButton('Support Group🙏', url='https://t.me/lm7editor')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
