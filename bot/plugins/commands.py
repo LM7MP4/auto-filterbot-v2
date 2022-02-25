@@ -28,7 +28,7 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = caption,
+                caption = "@lm7editor",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer', url='https://t.me/crizzbizzyt'),
+        InlineKeyboardButton('🤡LM7 GROUP 🤡', url='https://t.me/lm7editor'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2')
     ],[
-        InlineKeyboardButton('Support Group🛠', url='https://t.me/moviesbizzbotz')
+        InlineKeyboardButton('Support Group🛠', url='https://t.me/lm7editor')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
